@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.footer{
+    margin-top: auto;
+}
+
+.main{
+    margin-top: auto;
+}
+
+h1{
+    color: red;
+}
